@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Snagbuild-demo
+                    Snag-build-demo
                 </div>
 
                 <div class="links">
